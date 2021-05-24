@@ -9,3 +9,5 @@
 * https://javascript.info/ifelse
 * https://javascript.info/logical-operators
 * https://javascript.info/switch
+* https://javascript.info/try-catch
+* https://www.javatpoint.com/javascript-call-stack
